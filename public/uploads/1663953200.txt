@@ -1,0 +1,20 @@
+composer require laravel
+/ui
+php artisan ui:auth
+auth'u oluşturur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
